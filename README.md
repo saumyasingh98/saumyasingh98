@@ -22,6 +22,8 @@ I'm AI engineer with strong theoretical understanding and practical experience i
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/saumyasingh98)
 
+[![medium]](https://img.shields.io/badge/Medium-Medium-black)](https://saumyasingh98.medium.com/)
+
 
 
 ## 🛠 Skills
