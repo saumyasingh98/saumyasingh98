@@ -34,3 +34,14 @@ Machine Learning: Scikit-learn, NumPy, Pandas, Matplotlib, TensorFlow, PyTorch
 Data Science: NLTK, Spacy 
 
 Tools and Technologies: Anaconda, Eclipse, Git, PostgreSQL
+
+## Resume 
+
+[RESUME](https://saumyasingh98.github.io/assets/Saumya_RESUMEfinal.docx.pdf)
+
+
+## Blogs
+
+[All about R - Medium](https://saumyasingh98.medium.com/all-about-r-2bb8ff874074)
+
+[The Forgotten Genius Nikola Tesla](https://saumyasingh98.medium.com/the-forgotten-genius-nikola-tesla-d3da2f3741fd)
