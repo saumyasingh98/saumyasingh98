@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm AI engineer with strong theoretical understanding and practical experience in designing, training, evaluating, and optimizing AI and machine learning solutions.
 
-## Github Profile Sections
+## 
 👩‍💻 I'm currently pursuing my Masters in Artificial Intelligence at Northwestern University.
 
 💬 Ask me about - Machine Learning and Artificial Intelligence
