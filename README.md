@@ -25,7 +25,7 @@ I'm AI engineer with strong theoretical understanding and practical experience i
 
 
 ## 🛠 Skills
-Languages: [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)], https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white, C++,C, R, HTML, CSS, JavaScript, SQL
+Languages: ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white), ![python]https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white, C++,C, R, HTML, CSS, JavaScript, SQL
 
 Machine Learning: Scikit-learn, NumPy, Pandas, Matplotlib, TensorFlow, PyTorch 
 
